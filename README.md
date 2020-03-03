@@ -8,7 +8,7 @@ Gamagora 2019 - AI  - usoJANKEN (A* / Dijkstra)
 
 ## Illustration
 
-![usoJANKEN](Capture.PNG)
+![usoJANKEN](Capture.png)
 
 ## Fiche technique du jeu
 Le but était de créer un jeu isométrique (iso) de combat tour à tour basé sur le JANKEN (Pierre Feuille Ciseaux) :
@@ -37,7 +37,8 @@ A chaque tour l'ordre des joueurs est inversé, exemple :<br>
 - J2 attack
 - J1 attack
 
-On se déplace en utilisant la souris et en cliquant sur la case où on veut se déplacer (il y a une limite de distance qu'un joueur peut parcourir par tour de 6 cases).
+On se déplace en utilisant la souris et en cliquant sur la case où on veut se déplacer (il y a une limite de distance qu'un joueur peut parcourir par tour de 6 cases), le chemin est réalisé avec A*.
 On choisit l'attaque que l'on veut utiliser avec A Z E pour respectivement choisir Pierre Feuille et Ciseaux, et on l'utilise en cliquant sur une des cases bleues autour du personnage qui indiquent la portée d'attaque.
 
 ## Video Youtube :
+https://www.youtube.com/watch?v=tjtFd7LQkbM
