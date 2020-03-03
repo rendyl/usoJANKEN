@@ -17,8 +17,8 @@ Le jeu se déroule en tours, chaque tour contient 4 phases :
 
 - Le premier joueur se déplace<br>
 - Le deuxième joueur se déplace<br>
-- Le premier joueur choisit une attaque entre Pierre Feuille et Ciseaux (selon le placement du joueur il est possible de toucher avec certaines attaques et pas d'autres)<br>
-- Le deuxième joueur choisit une attaque entre Pierre Feuille et Ciseaux (ne sachant pas ce que le premier joueur a choisi)
+- Le premier joueur choisit une attaque entre Pierre Feuille et Ciseaux <br>(selon le placement du joueur il est possible de toucher avec certaines attaques et pas d'autres)<br>
+- Le deuxième joueur choisit une attaque entre Pierre Feuille et Ciseaux <br>(ne sachant pas ce que le premier joueur a choisi)
 
 Les dégats sont appliqués selon le choix des joueurs :
 - S'il y a égalité, les dégats sont appliqués aux deux joueurs (x1)<br>
